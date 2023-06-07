@@ -1,0 +1,36 @@
+.header {
+    padding: 27px 97px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {}
+
+.con {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.navHead {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #1D4645;
+}
+
+.list {
+    display: flex;
+    gap: 53px;
+}
+
+.user {
+    width: 80px;
+    height: 80px;
+    background-color: slategrey;
+    border-radius: 50%;
+}

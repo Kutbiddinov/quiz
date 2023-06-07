@@ -1,0 +1,53 @@
+.header {
+    padding: 27px 97px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+}
+
+.con {
+    border: 1px solid yellow;
+}
+
+.logo {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    color: #1D4645;
+}
+
+.user {
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.userimg {
+    width: 80px;
+    height: 80px;
+    background-color: slategrey;
+    border-radius: 50%;
+}
+
+.username {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #696F79;
+}

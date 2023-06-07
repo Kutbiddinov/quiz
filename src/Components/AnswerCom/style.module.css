@@ -1,0 +1,134 @@
+.section {
+    padding: 18px 31px 84px 18px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.aside {}
+
+.list {}
+
+.item {}
+
+.btn {
+    width: 271px;
+    height: 64px;
+    border-radius: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #1D4645;
+    padding: 0px 80px 0px 95px;
+    background-image: url(../../Images/icons/b.svg);
+    background-repeat: no-repeat;
+    background-position-y: 23px;
+    background-position-x: 43px;
+}
+
+.btn1 {
+    width: 271px;
+    height: 64px;
+    border-radius: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #1D4645;
+    padding: 0px 120px 0px 95px;
+    background-image: url(../../Images/icons/b.svg);
+    background-repeat: no-repeat;
+    background-position-y: 23px;
+    background-position-x: 43px;
+}
+
+.btn2 {
+    width: 271px;
+    height: 64px;
+    border-radius: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #1D4645;
+    padding: 0px 100px 0px 95px;
+    background-image: url(../../Images/icons/b.svg);
+    background-repeat: no-repeat;
+    background-position-y: 23px;
+    background-position-x: 43px;
+}
+
+.btn:focus {
+    background: #1D4645;
+    color: white;
+}
+
+.btn:active {
+    background: #1D4645;
+}
+
+.btn1:focus {
+    background: #1D4645;
+}
+
+.btn1:active {
+    background: #1D4645;
+}
+
+.btn2:focus {
+    background: #1D4645;
+}
+
+.btn2:active {
+    background: #1D4645;
+}
+
+.logout {
+    width: 271px;
+    height: 64px;
+    border-radius: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #1D4645;
+    padding: 0px 95px 0px 95px;
+    background-image: url(../../Images/icons/b.svg);
+    background-repeat: no-repeat;
+    background-position-y: 23px;
+    background-position-x: 43px;
+    margin-top: 413px;
+}
+
+.logout:active {
+    background: #1D4645;
+}
+
+.logout:focus {
+    background: #1D4645;
+}
+
+.iconbody {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.con {
+    width: 1080px;
+    border: 1px solid;
+    padding: 23px 71px 47px 39px;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 40px 5px #EDEDED;
+    border-radius: 30px;
+}

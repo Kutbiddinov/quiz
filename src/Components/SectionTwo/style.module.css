@@ -1,0 +1,32 @@
+
+.section1 {
+    margin-top: 73px;
+    height: 300px;
+    padding-top: 80px;
+    border: 1px solid;
+    position: relative;
+    overflow: hidden;
+}
+
+.secdiv {
+    position: absolute;
+    width: 1641.68px;
+    left: -30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1D4645;
+    padding: 40px 0px 40px 57px;
+    transform: rotate(4.82deg);
+}
+
+.sech1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 41.042px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    transform: rotate(4.82deg);
+}

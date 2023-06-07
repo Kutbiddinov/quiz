@@ -1,0 +1,107 @@
+.section {
+    padding: 90px 408px;
+}
+
+.con {
+    height: 721px;
+    width: 624px;
+    border-radius: 18px;
+    box-shadow: 0px 32px 72px 0px #14142B3D;
+    padding: 18px 136px 126px 146px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h1 {
+    width: 210px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: center;
+    color: #1D4645;
+}
+
+.h11 {
+    width: 252px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    color: #1D4645;
+    margin: 1px 0px 26px 0px;
+}
+
+.form {}
+
+.inp {
+    width: 342px;
+    height: 49px;
+    padding: 15px 14px;
+    border: 0.6px solid #8E8383;
+    border-radius: 5px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #555454;
+    margin-bottom: 5px;
+}
+
+.inp::placeholder {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #555454;
+}
+
+.btn {
+    margin: 27px 0px 23px 0px;
+    width: 342px;
+    height: 49px;
+    background: #1D4645;
+    border-radius: 5px;
+}
+
+.btn:focus {
+    background: #1D4615;
+}
+
+.btnBody {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.con1 {
+    display: flex;
+    gap: 7px;
+}
+
+.p {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #555454;
+}
+
+.link {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1D4645;
+}
